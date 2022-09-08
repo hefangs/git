@@ -10,3 +10,4 @@ Add dev2
 Add dev2 第三次
 Add dev2 第四次
 Add dev2 第五次-dev-hf-commit
+Creating a new branch is quick AND simple.
